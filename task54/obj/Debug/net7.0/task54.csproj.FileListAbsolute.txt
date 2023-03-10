@@ -1,0 +1,15 @@
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\bin\Debug\net7.0\task54.exe
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\bin\Debug\net7.0\task54.deps.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\bin\Debug\net7.0\task54.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\bin\Debug\net7.0\task54.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\refint\task54.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task54\obj\Debug\net7.0\ref\task54.dll

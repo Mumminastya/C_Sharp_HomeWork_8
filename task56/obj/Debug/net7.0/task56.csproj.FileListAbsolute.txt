@@ -1,0 +1,15 @@
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.csproj.AssemblyReference.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.AssemblyInfoInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.AssemblyInfo.cs
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\bin\Debug\net7.0\task56.exe
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\bin\Debug\net7.0\task56.deps.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\bin\Debug\net7.0\task56.runtimeconfig.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\bin\Debug\net7.0\task56.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\bin\Debug\net7.0\task56.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\refint\task56.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\task56.genruntimeconfig.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task56\obj\Debug\net7.0\ref\task56.dll

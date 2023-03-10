@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_8\\task56\\task56.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_8\\task56\\task56.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_8\\task56\\task56.csproj",
+        "projectName": "task56",
+        "projectPath": "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_8\\task56\\task56.csproj",
+        "packagesPath": "C:\\Users\\maxbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_8\\task56\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maxbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

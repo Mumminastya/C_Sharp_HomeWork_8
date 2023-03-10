@@ -1,0 +1,15 @@
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\bin\Debug\net7.0\task60.exe
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\bin\Debug\net7.0\task60.deps.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\bin\Debug\net7.0\task60.runtimeconfig.json
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\bin\Debug\net7.0\task60.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\bin\Debug\net7.0\task60.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.csproj.AssemblyReference.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.AssemblyInfoInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.AssemblyInfo.cs
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\refint\task60.dll
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.pdb
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\task60.genruntimeconfig.cache
+C:\Users\maxbe\Desktop\GeekBr\C#_education\C#_HomeWork_8\task60\obj\Debug\net7.0\ref\task60.dll
